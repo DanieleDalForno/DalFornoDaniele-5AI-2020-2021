@@ -1,0 +1,6 @@
+site_name: DalForno_Daniele
+
+nav:
+    - 'MD': 'index.md'
+theme:
+    name: readthedocs
